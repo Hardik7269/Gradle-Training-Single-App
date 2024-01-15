@@ -1,0 +1,7 @@
+apply plugin:'application'
+mainClassName = 'com.axelor.singleApp.Main'
+
+// reposetories{
+//     mvCentral()
+// }
+
